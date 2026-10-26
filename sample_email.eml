@@ -1,0 +1,12 @@
+From: IT Support <support@company-security.example>
+To: employee@example.com
+Subject: URGENT: Verify Your Account
+Date: Mon, 26 Oct 2026 09:00:00 -0500
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Your account will be suspended in 24 hours.
+
+Please verify your credentials immediately.
+
+ Visit: http://192.0.2.45/login
